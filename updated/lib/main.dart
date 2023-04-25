@@ -14,7 +14,7 @@ class Listed extends StatefulWidget {
 }
 
 class _ListedState extends State<Listed> {
-  List<String> quetes = ['A', 'B', 'C'];
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
